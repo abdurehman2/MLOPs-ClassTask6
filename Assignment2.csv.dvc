@@ -1,0 +1,5 @@
+outs:
+- md5: 43ac30cbd3ed5dd5cf9e11d0c00c3f71
+  size: 775942
+  hash: md5
+  path: Assignment2.csv

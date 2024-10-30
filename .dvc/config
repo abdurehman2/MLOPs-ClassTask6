@@ -1,0 +1,10 @@
+[core]
+    remote = drive
+['remote "myremote"']
+    url = gdrive://<folder-id>
+['remote "dvcremote"']
+    url = gdrive://1vZXSIrU7vL9i8sFyTZ9enL-czNHrFHc8
+    gdrive_acknowledge_abuse = true
+['remote "drive"']
+    url = gdrive://1vZXSIrU7vL9i8sFyTZ9enL-czNHrFHc8
+    gdrive_acknowledge_abuse = true
